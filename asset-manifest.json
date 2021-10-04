@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adyen_movie_app/static/css/main.a617e044.chunk.css",
+    "main.js": "/adyen_movie_app/static/js/main.7679eed5.chunk.js",
+    "main.js.map": "/adyen_movie_app/static/js/main.7679eed5.chunk.js.map",
+    "runtime-main.js": "/adyen_movie_app/static/js/runtime-main.b7739069.js",
+    "runtime-main.js.map": "/adyen_movie_app/static/js/runtime-main.b7739069.js.map",
+    "static/js/2.20358726.chunk.js": "/adyen_movie_app/static/js/2.20358726.chunk.js",
+    "static/js/2.20358726.chunk.js.map": "/adyen_movie_app/static/js/2.20358726.chunk.js.map",
+    "static/js/3.c2bbef94.chunk.js": "/adyen_movie_app/static/js/3.c2bbef94.chunk.js",
+    "static/js/3.c2bbef94.chunk.js.map": "/adyen_movie_app/static/js/3.c2bbef94.chunk.js.map",
+    "index.html": "/adyen_movie_app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/adyen_movie_app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.20358726.chunk.js.LICENSE.txt": "/adyen_movie_app/static/js/2.20358726.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/adyen_movie_app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7739069.js",
+    "static/js/2.20358726.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7679eed5.chunk.js"
+  ]
+}
