@@ -29,7 +29,7 @@ const App = () => {
   }
    
   const getMovie = (movieId) => {
-    fetch(`http://www.omdbapi.com/?i=${movieId}&plot=full&apikey=d4f7bffb`)
+    fetch(`https://www.omdbapi.com/?i=${movieId}&plot=full&apikey=d4f7bffb`)
       .then(response => response.json())
       .then(jsonResponse => {
           setMovie(jsonResponse);

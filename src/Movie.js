@@ -22,7 +22,7 @@ const Movie = (movie) => {
   const handleClick = (e) => {
     //console.log(e.target.dataset.id);
     // props.cardClicked(e.target.dataset.id);
-    fetch(`http://www.omdbapi.com/?i=${movie.imdbID}&apikey=d4f7bffb`)
+    fetch(`https://www.omdbapi.com/?i=${movie.imdbID}&apikey=d4f7bffb`)
       .then(resp => resp)
       .then(resp => resp.json())
       .then(response => {
@@ -44,7 +44,7 @@ const Movie = (movie) => {
         </button>
       </div>
       <div id={'collapse'+movie.imdbID} className="accordion-collapse collapse" aria-labelledby={'heading'+movie.imdbID} data-bs-parent="#accordion" >
-        <div className="accordion-body"><strong>Plot: </strong>{detail.Plot}</div>
+        <div className="accordion-body">{detail.Plot}</div>
       </div>
     </div>
   ) 
