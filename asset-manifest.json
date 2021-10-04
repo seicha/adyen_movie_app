@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adyen_movie_app/static/css/main.3ecc445b.chunk.css",
-    "main.js": "/adyen_movie_app/static/js/main.f1f996f0.chunk.js",
-    "main.js.map": "/adyen_movie_app/static/js/main.f1f996f0.chunk.js.map",
+    "main.js": "/adyen_movie_app/static/js/main.e721eed8.chunk.js",
+    "main.js.map": "/adyen_movie_app/static/js/main.e721eed8.chunk.js.map",
     "runtime-main.js": "/adyen_movie_app/static/js/runtime-main.ab5d9ace.js",
     "runtime-main.js.map": "/adyen_movie_app/static/js/runtime-main.ab5d9ace.js.map",
     "static/css/2.c1256375.chunk.css": "/adyen_movie_app/static/css/2.c1256375.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.c1256375.chunk.css",
     "static/js/2.3a008b8a.chunk.js",
     "static/css/main.3ecc445b.chunk.css",
-    "static/js/main.f1f996f0.chunk.js"
+    "static/js/main.e721eed8.chunk.js"
   ]
 }
