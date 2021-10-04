@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/adyen_movie_app/static/css/main.a617e044.chunk.css",
-    "main.js": "/adyen_movie_app/static/js/main.7679eed5.chunk.js",
-    "main.js.map": "/adyen_movie_app/static/js/main.7679eed5.chunk.js.map",
-    "runtime-main.js": "/adyen_movie_app/static/js/runtime-main.b7739069.js",
-    "runtime-main.js.map": "/adyen_movie_app/static/js/runtime-main.b7739069.js.map",
-    "static/js/2.20358726.chunk.js": "/adyen_movie_app/static/js/2.20358726.chunk.js",
-    "static/js/2.20358726.chunk.js.map": "/adyen_movie_app/static/js/2.20358726.chunk.js.map",
-    "static/js/3.c2bbef94.chunk.js": "/adyen_movie_app/static/js/3.c2bbef94.chunk.js",
-    "static/js/3.c2bbef94.chunk.js.map": "/adyen_movie_app/static/js/3.c2bbef94.chunk.js.map",
+    "main.css": "/adyen_movie_app/static/css/main.3ecc445b.chunk.css",
+    "main.js": "/adyen_movie_app/static/js/main.a9c5690a.chunk.js",
+    "main.js.map": "/adyen_movie_app/static/js/main.a9c5690a.chunk.js.map",
+    "runtime-main.js": "/adyen_movie_app/static/js/runtime-main.ab5d9ace.js",
+    "runtime-main.js.map": "/adyen_movie_app/static/js/runtime-main.ab5d9ace.js.map",
+    "static/css/2.c1256375.chunk.css": "/adyen_movie_app/static/css/2.c1256375.chunk.css",
+    "static/js/2.3a008b8a.chunk.js": "/adyen_movie_app/static/js/2.3a008b8a.chunk.js",
+    "static/js/2.3a008b8a.chunk.js.map": "/adyen_movie_app/static/js/2.3a008b8a.chunk.js.map",
+    "static/js/3.95adc081.chunk.js": "/adyen_movie_app/static/js/3.95adc081.chunk.js",
+    "static/js/3.95adc081.chunk.js.map": "/adyen_movie_app/static/js/3.95adc081.chunk.js.map",
     "index.html": "/adyen_movie_app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/adyen_movie_app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.20358726.chunk.js.LICENSE.txt": "/adyen_movie_app/static/js/2.20358726.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/adyen_movie_app/static/media/logo.6ce24c58.svg"
+    "static/css/2.c1256375.chunk.css.map": "/adyen_movie_app/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.3ecc445b.chunk.css.map": "/adyen_movie_app/static/css/main.3ecc445b.chunk.css.map",
+    "static/js/2.3a008b8a.chunk.js.LICENSE.txt": "/adyen_movie_app/static/js/2.3a008b8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7739069.js",
-    "static/js/2.20358726.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.7679eed5.chunk.js"
+    "static/js/runtime-main.ab5d9ace.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.3a008b8a.chunk.js",
+    "static/css/main.3ecc445b.chunk.css",
+    "static/js/main.a9c5690a.chunk.js"
   ]
 }
