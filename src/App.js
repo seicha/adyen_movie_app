@@ -37,10 +37,10 @@ const App = () => {
       })
   }
 
-  const handlePageClick = e => {
+  const handlePageClick = (e) => {
     console.log("selected" + e.selected); //start from 0 wehre as pages starts from 1
     getMovies(keyword, (e.selected + 1));
-   console.log("current page" + pages ) // OFF!!!!
+
   }
 
   const handleCardClicked = movieId => {
@@ -64,7 +64,6 @@ const App = () => {
   
   const allCards = genCards();
 
-
     return (
      <div className="App">
       <Header text="Movie Database" />
@@ -77,27 +76,14 @@ const App = () => {
           />
         </div>
         <div className="row">
-          <div className="accordion accordion-flush" id="accordion" >
-            {/* {loading && !errorMessage ? (
-            <span>loading...</span>
-            ) : errorMessage ? (
-              <div className="errorMessage">{errorMessage}</div>
-            ) : (
-              movies.map((movie, index) => (
-                <Movie key={`${index}-${movie.Title}`} movie={movie}/>
-                
-              ))
-            )} */}
-      
+          <div className="accordion accordion-flush" id="accordion" >      
             { !isLoaded ? (
             <span>loading...</span>
             ): 
             (allCards.length === 0 ? 
             <div className='error'>
-              No movie found...
-              <i className="far fa-grin-beam-sweat"></i>
-            </div> : allCards) }
-        
+              No movie found... Try again.
+            </div> : allCards) }     
           </div>
         </div>
         <div className="row">

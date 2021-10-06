@@ -4,11 +4,9 @@ const Movie = (movie) => {
   const DEFAULT_PLACEHOLDER_IMAGE =
   "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg";
 
-
   const poster =
     movie.Poster === "N/A" ? DEFAULT_PLACEHOLDER_IMAGE : movie.Poster;
 
-    //console.log(movie)
   const [detail, setDetail] = useState(false);
   const MovieDetail = ({Title, Poster, imdbRating, Rated, Runtime, Genre, Plot}) => {
     return (
@@ -18,23 +16,16 @@ const Movie = (movie) => {
     )
   }
   
-   
   const handleClick = (e) => {
-    //console.log(e.target.dataset.id);
-    // props.cardClicked(e.target.dataset.id);
     fetch(`https://www.omdbapi.com/?i=${movie.imdbID}&apikey=d4f7bffb`)
       .then(resp => resp)
       .then(resp => resp.json())
       .then(response => {
           setDetail(response);
       })
-      .catch(({message}) => {
-        
-      })
       console.log(detail)
     }
 
-  
   return (
     <div className="accordion-item" >
       <div className="accordion-header" id={'heading'+movie.imdbID}>
