@@ -6,9 +6,9 @@ Make an movie search app
 
 ## Persona
 
-+ Movie lover : who wants to search movie on his phone mainly
++ A movie lover : who wants to search movie on his phone mainly
 
-"As Mark, a movie lover who's not tech savvy, I want to have an easy/simple way to search movies by entering title and see what the movie is about. So I know what to watch tonight :) "
+"As Mark, a movie lover who's not tech savvy, I want to have an easy/simple way to search movies by entering title and see what the movie is about. So I know which movie to watch tonight :) "
 
 
 ## Criteria
@@ -18,12 +18,12 @@ Make an movie search app
 
 ## How to use the app
 
-1, Enter the movie tile you want to search. 
+1, Enter the movie title you want to search. 
 
 <img width="377" alt="Screenshot 2021-10-06 at 14 13 07" src="https://user-images.githubusercontent.com/18380391/136200883-4fd15b74-b0ce-4b60-9feb-9fab58c5fd93.png">
 
 
-2, Hit search of click enter.
+2, Hit search or click enter.
 
 <img width="377" alt="Screenshot 2021-10-06 at 14 13 07" src="https://user-images.githubusercontent.com/18380391/136200883-4fd15b74-b0ce-4b60-9feb-9fab58c5fd93.png">
 
@@ -33,7 +33,7 @@ Make an movie search app
 <img width="377" alt="Screenshot 2021-10-06 at 14 13 19" src="https://user-images.githubusercontent.com/18380391/136200929-d61889e6-877d-4d49-a3e2-db108496160f.png">
 
 
-4, Click on other movies or click on arrow to close the plot.
+4, Click on aother movie or click on arrow to close the plot.
 
 <img width="369" alt="Screenshot 2021-10-06 at 14 13 30" src="https://user-images.githubusercontent.com/18380391/136201033-c4cecc01-6d0d-4271-b231-28f48b4712d6.png">
 
